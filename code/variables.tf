@@ -17,6 +17,7 @@ variable "location" {
   description = "Azure region to deploy resources"
 }
 
+
 ##########################################
 ###### Variable for the keyvault.tf ######
 ##########################################
